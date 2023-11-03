@@ -1,1 +1,2 @@
-# Survey-form-by-FCC_AlbertS., visit this link: https://albert-santiago.github.io/Survey-form-by-FCC_AlbertS./
+# Survey-form-by-FCC_AlbertS.
+[▶️livePreview]( https://albert-santiago.github.io/Free_Code_Camp/Survey_Form )
