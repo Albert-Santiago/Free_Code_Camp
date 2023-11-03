@@ -1,4 +1,4 @@
 # CatPhotoAppbyFCC-AlbertS.
 My first project to FCC using HTML only
 
-Visit this project through this link: https://albert-santiago.github.io/CatPhotoAppbyFCC-AlbertS./
+[▶️livePreview]( https://albert-santiago.github.io/Free_Code_Camp/Cat_Photo_App )
