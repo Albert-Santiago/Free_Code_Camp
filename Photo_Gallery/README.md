@@ -1,2 +1,2 @@
 # FlexBox-CatPhotoGallery-by-FCC_AlbertS. 
-Visit the link:  https://albert-santiago.github.io/FlexBox-CatPhotoGallery-by-FCC_AlbertS./
+[▶️livePreview]( https://albert-santiago.github.io/Free_Code_Camp/Photo_Gallery )
