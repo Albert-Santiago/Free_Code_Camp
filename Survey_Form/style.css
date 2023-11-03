@@ -1,0 +1,163 @@
+body {
+    background-image: url("https://shots.codepen.io/leen624/pen/mdLjbbz-512.jpg?version=1664907060");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+    font-family: Arial, Helvetica, sans-serif;
+    height: 100vh;
+}
+main {
+    /* outline: 1px solid black; */
+    display: inline-block;
+    margin-left: 600px;
+    text-align: center;
+    width: 900px;
+    margin-bottom: 30px;
+    height: 1800px;
+    color: white;
+    
+}
+
+.title-layer {
+    /* outline: 1px solid red; */
+    font-family: "arial";
+    
+    
+}
+
+.title-layer #title {
+    font-size: 2.2rem;
+    margin-top: 40px;
+    margin-bottom: 10px;
+    color: white;
+}
+.title-layer #description {
+    font-style: italic;
+    font-size: 20px;
+    margin-top: 0px;
+    color: white;
+}
+
+.form-layer {
+    display: inline-block;
+    /* outline: 1px solid green; */
+    background-color: rgba(39, 40, 60, 0.8);
+    width: 800px;
+    text-align: left;
+    font-size: 20px;
+    height: 1570px;
+    border-radius: 5px;
+    
+}
+.form-layer form label, .form-layer form input {
+    display: block;
+    margin-left: 30px;
+    margin-bottom: 10px;
+}
+
+.form-layer .basic-info {
+    margin-top: 40px;
+}
+.form-layer .basic-info input {
+    width: 720px;
+    height: 40px;
+    padding-left: 10px;
+    font-size: 17px;
+    border-radius: 5px;
+    border: none;
+    margin-bottom: 30px;
+}
+.form-layer .role label {
+    margin-bottom: 10px;
+}
+
+.form-layer .role select{
+    margin-left: 30px;
+    width: 730px;
+    height: 40px;
+    font-size: 17px;
+    border-radius: 5px;
+    border: none;
+    padding-left: 10px;
+    margin-bottom: 30px;
+    color: gray;
+}
+
+.form-layer .recommend .question {
+    display: block;
+    margin-left: 32px;
+}
+
+.form-layer .recommend label,  .form-layer .recommend input{
+    display: inline-block;
+}
+.form-layer .recommend label {
+    vertical-align: 2px;
+    margin-left: -30px;
+}
+.form-layer .recommend input {
+    border: 0px;
+    width: 10%;
+    height: 20px;
+    margin-left: 5px;
+}
+
+.form-layer .favorite {
+    margin-top: 20px;
+}
+.form-layer .favorite select{
+    margin-left: 30px;
+    width: 730px;
+    height: 40px;
+    font-size: 17px;
+    border-radius: 5px;
+    border: none;
+    padding-left: 10px;
+    margin-bottom: 30px;
+    color: gray;
+}
+.form-layer .checkbox .question {
+    display: block;
+}
+
+.form-layer .checkbox input, .form-layer .checkbox label {
+    display: inline-block;
+}
+
+.form-layer .checkbox .question {
+    margin-left: 32px;
+}
+.form-layer .checkbox input{
+    border: none;
+    width: 10%;
+    height: 20px;
+    margin-left: 5px;
+}
+.form-layer .checkbox label {
+    margin-left: -30px;
+}
+
+.form-layer .comments {
+    margin-top: 30px;
+}
+.form-layer .comments textarea {
+    margin-left: 30px;
+    padding: 10px;
+    font-size: 18px;
+    border-radius: 5px;
+}
+
+input[type="submit"] {
+    margin-top: 30px;
+    width: 750px;
+    height: 50px;
+    font-size: 20px;
+    margin-bottom: 20px;
+    border-radius: 5px;
+    color: white;
+    background-color: #39bc46;
+}
+
+
+

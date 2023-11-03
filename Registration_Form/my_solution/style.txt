@@ -1,0 +1,85 @@
+body {
+    width: 100%;
+    height: 100vh;
+    background-color: #1b1b32;
+    color: #f5f6f7;
+    margin: 0;
+    font-size: 16px;
+    font-family: Tahoma;
+}
+
+h1, p {
+    text-align: center;
+}
+
+form {
+    max-width: 500px;
+    min-width: 300px;
+    margin: 0 auto;
+}
+fieldset {
+    border: none;
+}
+
+.fieldset-first input {
+    width: 100%;
+    background-color: #03031a;
+    border: 1px solid #03031a;
+    color: #f5f6f7;
+    height: 1.5em;
+    
+}
+.fieldset-first label {
+    margin-bottom: 10px;
+    line-height: 40px;
+    
+}
+
+label, input {
+    display: block;
+    
+}
+
+.fieldset-second input{
+    display: inline;
+    margin-bottom: 25px;
+    vertical-align: top;
+    
+}
+
+a {
+    color: #f5f6f7;
+}
+
+fieldset:last-of-type {
+    line-height: 2em;
+    
+}
+fieldset:last-of-type input {
+    width: 100%;
+    background-color: #03031a;
+    border: 1px solid #03031a;
+    height: 1.5em;
+}
+fieldset:last-of-type select {
+    display: block;
+    width: 100%;
+    height: 2em;
+}
+fieldset:last-of-type textarea {
+    background-color: #03031a ;
+    border: 1px solid #03031a;
+    color: #f5f6f7;
+}
+input[type="submit"] {
+    margin: 0 auto;
+    width: 300px;
+    height: 50px;
+    background-color: grey;
+    font-size: 1.5rem;
+    border: 2px solid #f5f6f7;
+    color: #f5f6f7;
+}
+
+
+
